@@ -1,5 +1,5 @@
 # Ex14 Heap Tree
-## DATE:17/03/2025
+## DATE:12/04/2025
 ## AIM:
 To write a C function to delete an element in a Heap Tree.
 
@@ -17,9 +17,9 @@ To write a C function to delete an element in a Heap Tree.
 
 Program to delete an element in a Heap Tree
 
-Developed by: GOWTHAM N
+Developed by: KRISHNA KUMAR R
 
-RegisterNumber:  212223100008
+RegisterNumber:  212223230107
 ```
 ```
 void deleteRoot(int array[], int num) 
